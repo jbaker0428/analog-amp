@@ -1,0 +1,20 @@
+Source,C:\Users\Joe\Documents\analog-amp\analog-amp.sch,,,,,,
+Kicad Rev,Eeschema 4.0.5,,,,,,
+Generated Date,10/31/2017 2:14:52 PM,,,,,,
+,,,,,,,
+Title,Analog Amplifier,,,,,,
+Company,Joseph Baker,,,,,,
+Revision,1,,,,,,
+Date Issue,2017-10-30,,,,,,
+Comment,Sample Design,,,,,,
+,,,,,,,
+Reference,Value,Manufacturer,PartNumber,Supplier,Supplier PN,Library,Library Ref
+U1,LMV321,ST,LMV321LILT,Digi-Key,497-13051-1-ND,analog-amp-cache,LMV321
+RV2,POT 100K,Nidec Copal Electronics,CT6EP104,Digi-Key,CT6EP104-ND,device,POT
+C2,0.1uF,Murata,GRM155R61E104KA87D,Digi-Key,490-5920-1-ND,device,C
+J1,Conn_01x03,Wurth Electronics,61300311121,Digi-Key,732-5316-ND,analog-amp-cache,Conn_01x03
+C1,0.1uF,Murata,GRM155R61E104KA87D,Digi-Key,490-5920-1-ND,device,C
+R2,100K,Stackpole,RMCF0402FT100K,Digi-Key,RMCF0402FT100KCT-ND,device,R
+R1,100K,Stackpole,RMCF0402FT100K,Digi-Key,RMCF0402FT100KCT-ND,device,R
+RV1,POT 1K,Nidec Copal Electronics,CT6EP102,Digi-Key,CT6EP102-ND,device,POT
+J2,Conn_01x03,Wurth Electronics,61300311121,Digi-Key,732-5316-ND,analog-amp-cache,Conn_01x03
